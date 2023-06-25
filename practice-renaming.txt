@@ -1,3 +1,5 @@
 practice attempt to push
 
 now practicing automatic merges
+
+another #2 attempt at practicing merges
