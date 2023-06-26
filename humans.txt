@@ -14,5 +14,6 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
 
 what in the heck are these text
