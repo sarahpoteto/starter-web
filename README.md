@@ -7,3 +7,7 @@ then more changes fronm myfeature branch too
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+all rights reveserved
